@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-E0DEDE {
+  background-color: #E0DEDE;
+}
+
+.text-FFFFFF {
+  color: #FFFFFF;
+}
+
+.text-E7D37F {
+  color: #E7D37F;
+}
+
+.text-000000 {
+  color: #000000;
+}
+
+.bg-000000 {
+  background-color: #000000;
+}
